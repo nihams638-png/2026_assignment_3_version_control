@@ -3,7 +3,7 @@
 - CHANGED: Fixed high-severity XXXXXXX bug in `data/1976953.txt` (#86)
 ## [Unreleased]
 - CHANGED: Fixed low-severity UPPERCASE words in `data/a1885087.txt` (#2)
-
+- CHANGED: Fixed low-severity UPPERCASE words in `data/1976953.txt` (#87)
 
 ### Added
 
